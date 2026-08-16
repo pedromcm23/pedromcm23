@@ -10,13 +10,16 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`C++` `Python` `Java` `TypeScript` `Dart` `Haskell` `Prolog`
+`C` `C++` `Python` `Java` `TypeScript` `Dart` `Haskell` `Prolog`
 
-**Frameworks & Web:**  
-`React` `Node.js` `Flutter` `Prisma`
+**Web & Frameworks:**  
+`HTML5` `TailwindCSS` `React` `Node.js` `Flutter` `Prisma`
 
-**Tools & Infrastructure:**  
-`Docker` `Git` `PostgreSQL` `Linux` `OpenMP`
+**Databases:**  
+`PostgreSQL` `MySQL` `SQLite`
+
+**Tools, Infrastructure & Design:**  
+`Git` `GitHub` `GitLab` `Docker` `Vercel` `Linux` `Figma`
 
 ---
 
