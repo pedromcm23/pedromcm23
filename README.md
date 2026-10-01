@@ -1,7 +1,7 @@
 # Pedro Marques 👋
 
 📍 Porto, Portugal  
-🎓 BSc in Informatics and Computing Engineering  
+🎓 MSc in Informatics and Computing Engineering  
 🏫 Faculty of Engineering, University of Porto (FEUP)  
 💼 Former Research Assistant & Summer Intern @ INESC TEC | Ex-Fintech Intern @ Banco BiG
 
